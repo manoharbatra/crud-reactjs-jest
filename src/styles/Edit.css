@@ -1,0 +1,17 @@
+.edit-submit-box{
+    margin-top: 30px
+}
+
+.cancel-btn{
+    margin-left: 12px;
+    background-color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.cancel-btn:hover {
+    background-color: #ccc; /* Change to the desired hover background color */
+  }
+
+.headers{
+    background-color: #fff
+}
