@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react';
-import Edit from '../Dashboard/Edit';
+import Edit from '../components/Dashboard/Edit';
 import Swal from 'sweetalert2';
 
 // Mock the SweetAlert2 module since it's used within the Edit component

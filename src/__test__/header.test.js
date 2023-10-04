@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react';
-import Header from '../Dashboard/Header';
+import Header from '../components/Dashboard/Header';
 
 // Mock the Logout component since it's used within the Header
 jest.mock('../Logout', () => ({ setIsAuthenticated }) => (
